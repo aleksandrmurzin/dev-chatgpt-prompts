@@ -97,7 +97,7 @@ by getting GPT-4 to re-write your code into the style you want. This step will g
 **Prompt:**
 
 ```
-Review the following code and re-write it to modern es6 programming standards and formatting:
+Review the following code and re-write it to modern python programming standards and formatting:
 
 [insert code here]
 ```
@@ -111,7 +111,7 @@ Get recommendations to improve any logical or security concerns introduced. Itâ€
 **Prompt:**
 
 ```
-Review your provided code 'tempFunction' for any logical or security concerns and provide a list of recommendations.
+Review your provided code for any logical or security concerns and provide a list of recommendations.
 ```
 
 ### 3. Validate the recommendations (reflexion)
@@ -135,7 +135,7 @@ Combine your reviews, recommendations and feedback to get GPT-4 to write your ne
 **Prompt:**
 
 ```
-Re-write the 'tempFunction' function based off your review and recommendations.
+Re-write the code based off your review and recommendations.
 ```
 
 ### 5. Create Tests
